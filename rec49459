@@ -1,0 +1,40 @@
+P1:
+total 24
+drwxr-xr-x 2 ugrad 4096 Feb 13 19:46 img
+drwxr-xr-x 2 ugrad 4096 Feb 13 19:47 JS
+-rw-r--r-- 1 ugrad  889 Feb 13 19:43 main.html
+-rw-r--r-- 1 ugrad 2682 Feb 13 21:18 README.txt
+-rw-r--r-- 1 ugrad    0 Feb 13 22:38 rec49459
+-rw-r--r-- 1 ugrad 1481 Feb 13 21:17 rec6692
+-rw-r--r-- 1 ugrad 1526 Feb 13 21:19 rec7316
+
+P1/img:
+total 200
+-rw-r--r-- 1 ugrad 11612 Feb 13 19:43 arenanew.png
+-rw-r--r-- 1 ugrad   496 Feb 13 19:43 bomb2.png
+-rw-r--r-- 1 ugrad 29661 Feb 13 19:43 bombergirl.png
+-rw-r--r-- 1 ugrad   459 Feb 13 19:44 bombnew.png
+-rw-r--r-- 1 ugrad  1756 Feb 13 19:44 bombsexplode.png
+-rw-r--r-- 1 ugrad 12256 Feb 13 19:44 bonuses2.png
+-rw-r--r-- 1 ugrad 12608 Feb 13 19:44 firesnew.png
+-rw-r--r-- 1 ugrad 14868 Feb 13 19:44 gameover.png
+-rw-r--r-- 1 ugrad 21167 Feb 13 19:44 me.png
+-rw-r--r-- 1 ugrad   560 Feb 13 19:45 p1.png
+-rw-r--r-- 1 ugrad 18799 Feb 13 19:45 p1wins.png
+-rw-r--r-- 1 ugrad   561 Feb 13 19:45 p2.png
+-rw-r--r-- 1 ugrad 19228 Feb 13 19:45 p2wins.png
+-rw-r--r-- 1 ugrad 21356 Feb 13 19:45 player2.png
+-rw-r--r-- 1 ugrad  1160 Feb 13 19:46 smallerbomb.png
+
+P1/JS:
+total 44
+-rw-r--r-- 1 ugrad 4229 Feb 13 20:14 arena.js
+-rw-r--r-- 1 ugrad 1651 Feb 13 20:14 bomb.js
+-rw-r--r-- 1 ugrad 2300 Feb 13 19:59 fire.js
+-rw-r--r-- 1 ugrad  112 Feb 13 20:04 gameover.js
+-rw-r--r-- 1 ugrad  497 Feb 13 20:04 keyboard.js
+-rw-r--r-- 1 ugrad 1394 Feb 13 20:05 main.js
+-rw-r--r-- 1 ugrad  121 Feb 13 20:05 menu.js
+-rw-r--r-- 1 ugrad 2689 Feb 13 20:15 player.js
+-rw-r--r-- 1 ugrad 5878 Feb 13 22:21 render.js
+/home/ugrads/briley/4070/P1:/home/work/csx070
